@@ -1,0 +1,27 @@
+{
+  "name": "item-monitor",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.15",
+    "node-schedule": "^1.2.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wssgcg1213/itemMonitor.git"
+  },
+  "keywords": [],
+  "author": "Ling.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wssgcg1213/itemMonitor/issues"
+  },
+  "homepage": "https://github.com/wssgcg1213/itemMonitor#readme"
+}
